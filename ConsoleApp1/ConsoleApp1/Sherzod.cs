@@ -1,6 +1,7 @@
 ﻿namespace ConsoleApp1;
 
-internal class Sherzod
+public class Sherzod
 {
     string s = "Salom";
+    int a = 0;// This is int
 }
