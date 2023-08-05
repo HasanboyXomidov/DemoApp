@@ -1,5 +1,6 @@
 ﻿namespace ConsoleApp1;
 
-public class Javohir
+internal class Javohir
 {
+    private string str = "Ma'sulyatni oshirdim";
 }
