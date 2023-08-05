@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp1;
 
-public class Abdulaziz
+internal class Abdulaziz
 {
 
 }
