@@ -2,5 +2,5 @@
 
 internal class Javohir
 {
-    private string str = "Ma'sulyatni oshirdim";
+    protected string str = "Ma'sulyatni oshirdim";
 }
