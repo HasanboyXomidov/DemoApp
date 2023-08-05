@@ -2,5 +2,6 @@
 
 internal class Javohir
 {
-    private string str = "Ma'sulyatni oshirdim";
+    public string str = "Ma'sulyatni oshirdim";
+    public string field = "Conflict chiqsa kerak";
 }
