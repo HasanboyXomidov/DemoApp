@@ -2,5 +2,5 @@
 
 public class Sherzod
 {
-    int a = 0;// This is int
+    public string Name { get; set; } = String.Empty;
 }
